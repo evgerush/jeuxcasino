@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://www.jeuxcasino-enligne.com/sitemap.xml
+Disallow:

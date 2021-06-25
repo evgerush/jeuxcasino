@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8" />
+	<title>Jeux de casino en ligne - Casino gratuit</title>
+	<meta name="description" content="Retrouvez tous les jeux de casino en ligne: Machines a sous, Roulette, Vidéo Poker, Blackjack, Baccarat, Craps, etc. Mais aussi des bonus sans depot, une sélection des meilleurs casinos virtuels avec, bien sûr, le mode casino gratuit.">
+	<meta name="keywords" content="jeux de casino, casino en ligne">
+	<link rel="icon" type="image/x-icon" href="favicon.ico" /> 
+	<link href="css/style.css" rel="stylesheet" type="text/css" />	 
+	<script type="text/javascript"> 
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-24614980-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })(); 
+	</script>
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+<div id="wrapper"> 
+	<div id="header">
+			<a href="http://www.jeuxcasino-enligne.com">
+				<figure><img id="logo" src="images/logo.png" alt="Jeux Casinos" /></figure>
+			</a>
+	</div>
+	<div id="menu" class="droplinebar">
+	 
+		<nav role="navigation">
+			<ul role="menu" itemprop="breadcrumb">
+				<li role="menuitem" class="first"><a href="http://www.jeuxcasino-enligne.com">Accueil</a></li>
+				<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/jeux-casino-gratuit.php">Jeux casino gratuit</a></li>
+				<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/jeux-de-casino.php">Jeux de casino</a></li>
+				<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/casino-gratuit.php">Casino gratuit</a></li>
+				<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/bonus-sans-depot.php">Bonus sans dépôt</a></li>
+				<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/contact.php">Contact</a></li>
+			</ul>
+		</nav>
+	 
+	</div>
+	<div id="content">
+		<div id="content_left"> 
+				<div class="box_1">
+					<header role="banner">
+						<h1 itemprop="headline">Jeux de casino</h1>
+					</header>
+					<section role="main" itemprop="mainContentOfPage"> 
+						<h2 class="sousrubrique">Jouer au casino chez soi</h2>
+						<p>Jeuxcasino-enligne.com vous offre toutes les informations nécessaires pour jouer au casino en ligne. Les jeux de casino les plus populaires ont été minutieusement détaillés. Vous pourrez consulter les règles et les stratégies des jeux de casino mais aussi et surtout, vous pourrez tester les jeux de casino gratuit en mode flash... directement depuis notre site.</p>
+						<p>Nous avons également testé pour vous les différents casinos en ligne pour que vous profitiez des meilleurs bonus sans dépôt, des plus gros jackpots et bien entendu de jeux de casino de qualité, etc. Mais aussi pour que vous sachiez quels sont les casinos qui offrent les plus beaux graphismes, la meilleure réactivité, un bon service clientèle... et qui vous permettent de gagner beaucoup d'argent. 
+						N'attendez plus, passez un moment de plaisir sur notre site.</p>
+					</section>
+				</div>
+		 
+			<section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+				<div class="box_2">
+					<header>
+						<h1 itemprop="headline">machines a sous</h1>
+					</header>
+					<div class="gray" itemprop="articleBody">
+						<figure>
+							<a href="http://www.jeuxcasino-enligne.com/machine-a-sous-gratuit.php" title="Jeux de machines à sous gratuit">
+								<img src="images/img1.png" alt="machine a sous" />
+							</a>
+						</figure>
+						<p>Le 'must' des jeux de casino. Jouer aux <a href="http://www.jeuxcasino-enligne.com/machine-a-sous-gratuit.php">machines à sous</a> 
+						est une véritable expérience de jeu, très sensorielle, qui fait appel à la vision et à l'écoute mais aussi à un savoir inné d'anticipation. </p>
+						<div class="white">
+							<p class="choix-redaction">Le choix de la redaction</p>
+							<figure>
+								<a href="http://www.jeuxcasino-enligne.com/rome-casino.php">
+									<img src="images/casino_1.png" alt="Rome Casino" aria-describedby="romeCasinoCaption" />
+								</a>
+								<figcaption id="romeCasinoCaption">
+									<span class="gray2">
+										<span class="red">300%</span> jusqu'&agrave;
+									</span>
+									<span class="red_big">1500&euro;</span>
+								</figcaption>
+							</figure>
+							<div class="clear"></div>
+							<footer>
+								<a href="http://www.jeuxcasino-enligne.com/rome-casino.php" class="red_link">en savoir plus</a>
+								<a href="http://www.jeuxcasino-enligne.com/visitez.php?id=rome-casino" target="_blank" rel="nofollow" class="gray_link">visitez</a>
+							</footer>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			
+			<section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+				<div class="box_2">
+					<header>
+						<h1 itemprop="headline">Roulette</h1>
+					</header>
+					<div class="gray" itemprop="articleBody">
+						<figure>
+							<a href="http://www.jeuxcasino-enligne.com/roulette-gratuit.php" title="Jeux de roulette gratuit">
+								<img src="images/img2.png" alt="roulette" />
+							</a>
+						</figure>
+						<p>Le suspens de la bille lancée dans le sens inverse de la rotation de la <a href="http://www.jeuxcasino-enligne.com/roulette-gratuit.php">roulette</a> peut aussi être ressenti dans un casino en ligne tant les roulette proposées sont réalistes. </p>
+						<div class="white">
+							<p class="choix-redaction">Le choix de la redaction</p>
+							<figure>
+								<a href="http://www.jeuxcasino-enligne.com/grandluxe-casino.php">
+									<img src="images/casino_2.png" alt="GrandLuxe Casino" aria-describedby="grandluxe-casino" />
+								</a>
+								<figcaption id="grandluxe-casino">
+									<span class="gray2">
+										<span class="red">100%</span> jusqu'&agrave;
+									</span>
+									<span class="red_big">1600&euro;</span>
+								</figcaption>
+							</figure>
+							<div class="clear"></div>
+							<footer>
+								<a href="http://www.jeuxcasino-enligne.com/grandluxe-casino.php" class="red_link">en savoir plus</a>
+								<a href="http://www.jeuxcasino-enligne.com/visitez.php?id=grandluxe-casino" target="_blank" rel="nofollow" class="gray_link">visitez</a>
+							</footer>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+				<div class="box_2 last">
+					<header>
+						<h1 itemprop="headline">Blackjack</h1>
+					</header>
+					<div class="gray" itemprop="articleBody">
+						<figure>
+							<a href="http://www.jeuxcasino-enligne.com/blackjack-gratuit.php" title="Jeux de blackjack gratuit">
+								<img src="images/img3.png" alt="blackjack" />
+							</a>
+						</figure>
+						<p>Le <a href="http://www.jeuxcasino-enligne.com/blackjack-gratuit.php">blackjack</a> est le jeu de cartes le plus populaire des jeux de casino. Une phrase pour le résumer : peu importe quelle main vous avez, ce qui compte c'est la main du croupier. </p>
+						<div class="white">
+							<p class="choix-redaction">Le choix de la redaction</p>
+							<figure>
+								<a href="http://www.jeuxcasino-enligne.com/winpalace-casino.php">
+									<img src="images/casino_3.png" alt="Winpalace Casino" aria-describedby="winpalace-casino" />
+								</a>
+								<figcaption id="winpalace-casino">
+									<span class="gray2">
+										<span class="red">200%</span> jusqu'&agrave;
+									</span>
+									<span class="red_big">1000&euro;</span>
+								</figcaption>
+							</figure>
+							<div class="clear"></div>
+							<footer>
+								<a href="http://www.jeuxcasino-enligne.com/winpalace-casino.php" class="red_link">en savoir plus</a>
+								<a href="http://www.jeuxcasino-enligne.com/visitez.php?id=winpalace-casino" target="_blank" rel="nofollow" class="gray_link">visitez</a>
+							</footer> 
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+				<div class="box_2">
+					<header>
+						<h1 itemprop="headline">Video poker</h1>
+					</header>
+					<div class="gray" itemprop="articleBody">
+						<figure>
+							<a href="http://www.jeuxcasino-enligne.com/video-poker-gratuit.php" title="Jeux de video poker gratuit">
+								<img src="images/img4.png" alt="vidéo poker" />
+							</a>
+						</figure>						
+						<p>Le <a href="http://www.jeuxcasino-enligne.com/video-poker-gratuit.php">vidéo poker</a> est un jeu de casino très populaire dans les casinos 'terrestres'. Ce jeu au pourcentage de gains intéressant nécessite certaines compétences de la part des joueurs. </p>
+						<div class="white">
+						<p class="choix-redaction">Le choix de la redaction</p>
+							<figure>
+								<a href="http://www.jeuxcasino-enligne.com/7red-casino.php">
+									<img src="images/casino_4.png" alt="7Red Casino" aria-describedby="7red-casino" />
+								</a>
+								<figcaption id="7red-casino">
+									<span class="gray2">
+										<span class="red">100%</span> jusqu'&agrave;
+									</span>
+									<span class="red_big">100&euro;</span>
+								<div class="clear"></div>
+								</figcaption>
+							</figure>
+							<div class="clear"></div>
+							<footer>
+								<a href="http://www.jeuxcasino-enligne.com/7red-casino.php" class="red_link">en savoir plus</a>
+								<a href="http://www.jeuxcasino-enligne.com/visitez.php?id=7red-casino" target="_blank" rel="nofollow" class="gray_link">visitez</a>
+							</footer>
+						</div>
+					</div>
+				</div>
+			</section> 
+			
+			<section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+				<div class="box_2">
+					<header>
+						<h1 itemprop="headline">Baccarat</h1>
+					</header>
+					<div class="gray" itemprop="articleBody">
+						<figure>
+							<a href="http://www.jeuxcasino-enligne.com/jeux-de-table-gratuit.php" title="Jeux de baccarat gratuit">
+								<img src="images/img5.png" alt="baccarat" />
+							</a>
+						</figure>						
+						<p>Le <a href="http://www.jeuxcasino-enligne.com/jeux-de-table-gratuit.php">baccarat</a> est un jeu de casino très simple à jouer et à comprendre. Il n'y a que deux questions à se poser pour deux possibilités qui sont proposées : où et combien...  </p>
+						<div class="white">
+						<p class="choix-redaction">Le choix de la redaction</p>
+							<figure>
+								<a href="http://www.jeuxcasino-enligne.com/topaze-casino.php">
+									<img src="images/casino_5.png" alt="Topaze Casino" aria-describedby="topaze-casino" />
+								</a>
+								<figcaption id="topaze-casino">
+									<span class="gray2">
+										<span class="red">100%</span> jusqu'&agrave;
+									</span>
+									<span class="red_big">3000&euro;</span>
+								</figcaption>
+							</figure>
+							<div class="clear"></div>
+							<footer>
+								<a href="http://www.jeuxcasino-enligne.com/topaze-casino.php" class="red_link">en savoir plus</a>
+								<a href="http://www.jeuxcasino-enligne.com/visitez.php?id=topaze-casino" target="_blank" rel="nofollow" class="gray_link">visitez</a>
+							</footer>
+						</div>
+					</div>
+				</div>
+			</section>
+			
+			<section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+				<div class="box_2 last">
+					<header>
+						<h1 itemprop="headline">Craps</h1>
+					</header>
+						<div class="gray" itemprop="articleBody">
+						<figure>
+							<a href="http://www.jeuxcasino-enligne.com/jeux-de-table-gratuit.php" title="Jeux de craps gratuit">
+								<img src="images/img6.png" alt="craps" />
+							</a>
+						</figure>						
+						<p>Le <a href="http://www.jeuxcasino-enligne.com/jeux-de-table-gratuit.php">craps</a> est tout simplement le jeu de dés le plus populaire des Etats-Unis. Le nombre de joueurs est très élevé. Le but du jeu? Anticiper le résultat des dés. </p>
+						<div class="white">
+						<p class="choix-redaction">Le choix de la redaction</p>
+						<figure>
+							<img src="images/casino_6.png" alt="7Red Casino" />
+							<figcaption>
+								<span class="gray2">
+									<span class="red">100%</span> jusqu'&agrave;</span>
+								<span class="red_big">100&euro;</span>
+							</figcaption>
+						</figure>
+						<div class="clear"></div>
+						<footer>
+							<a href="http://www.jeuxcasino-enligne.com/7red-casino.php" class="red_link">en savoir plus</a>
+							<a href="http://www.jeuxcasino-enligne.com/visitez.php?id=7red-casino" target="_blank" rel="nofollow" class="gray_link">visitez</a>
+						</footer>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="clear"></div>             
+                <br />
+                <section role="contentinfo" itemscope itemtype="http://schema.org/Article">
+			<div class="box_1">
+				<header>
+					<h1 itemprop="headline">Jeux de casino gratuit</h1>
+				</header>
+				<p itemprop="articleBody">Voici une sélection des meilleurs jeux de casino du moment. Vous pouvez y jouer gratuitement depuis notre site. Visitez notre page dédiée aux <a href="http://www.jeuxcasino-enligne.com/jeux-casino-gratuit.php">jeux de casino gratuit</a> pour accéder à tous nos jeux de casino en flash.</p>
+			</div>
+                
+			<div class="pacoBox">
+				<table class="pacoTable">
+					<tr class="pacoImg">
+						<td><figure><img src="images/paco.png" alt="Paco and the Popping Peppers" /></figure></td>
+						<td><figure><img src="images/mrvegas.png" alt="Mr. Vegas" /></figure></td>
+						<td><figure><img src="images/azectreasure.png" alt="Aztec Treasures" /></figure></td>
+						<td><figure><img src="images/gladiator.png" alt="Gladiator" /></figure></td>
+						<td><figure><img src="images/rouletteeuropeenne.png" alt="Roulette européenne" /></figure></td>
+					</tr>
+					<tr class="pacoLien">
+						<td><a href="http://www.jeuxcasino-enligne.com/machine-a-sous-paco.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/machine-a-sous-mr-vegas.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/machine-a-sous-aztec-treasures.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/machine-a-sous-gladiator.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/roulette-europeenne.php">jouez gratuitement</a></td>
+					</tr>
+				</table>
+			</div>
+            
+			<div class="pacoBox">
+				<table class="pacoTable">
+					<tr class="pacoImg">
+						<td><figure><img src="images/rouletteamericainevip.png" alt="Roulette américaine vip" /></figure></td>
+						<td><figure><img src="images/blackjackeuropeen.png" alt="Blackjack européen" /></figure></td>
+						<td><figure><img src="images/jacksorbetter.png" alt="Jacks or Better" /></figure></td>
+						<td><figure><img src="images/baccarat.png" alt="Baccarat" /></figure></td>
+						<td><figure><img src="images/craps.png" alt="Craps" /></figure></td>
+					</tr>
+					<tr class="pacoLien">
+						<td><a href="http://www.jeuxcasino-enligne.com/roulette-americaine-vip.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/blackjack-americain.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/video-poker-jacks-or-better.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/jeu-de-table-baccarat.php">jouez gratuitement</a></td>
+						<td><a href="http://www.jeuxcasino-enligne.com/jeu-de-table-craps.php">jouez gratuitement</a></td>
+					</tr>
+				</table>
+			</div>
+		</section>
+	</div>
+		
+		
+	<aside role="complementary"> 
+		<div id="content_right"> 
+			<dl class="accueilBoxes">
+				<dt class="boxesDT">bonus casino</dt>
+				<dd class="boxesDD">
+					<ul role="list" class="boxesMulti">
+						<li role="listitem" class="boxesLarge boxesRouge">Casino</li>
+						<li role="listitem" class="boxesCourte boxesRougeFonce">Bonus</li>
+					</ul>
+					<ul role="list" class="boxesGris boxesMulti">
+						<li role="listitem" class="boxesFigure">
+								<figure>
+									<img src="images/casinos-en-ligne2_14.jpg" width="27" alt="Casino Titan" />
+									<figcaption><a href="http://www.jeuxcasino-enligne.com/casino-titan.php">Casino Titan</a></figcaption>
+								</figure>
+						</li>
+						<li role="listitem" class="boxesBonus">3000&euro;</li>
+					</ul>			
+					<ul role="list" class="boxesGris boxesMulti">
+						<li role="listitem" class="boxesFigure">
+								<figure>
+									<img src="images/casinos-en-ligne2_15.jpg" width="27" alt="Topaze Casino" />
+									<figcaption><a href="http://www.jeuxcasino-enligne.com/topaze-casino.php">Topaze Casino</a></figcaption>
+								</figure>
+						</li>
+						<li role="listitem" class="boxesBonus">3000&euro;</li>
+					</ul>			
+					<ul role="list" class="boxesGris boxesMulti">
+						<li role="listitem" class="boxesFigure">
+								<figure>
+									<img src="images/casinos-en-ligne2_11.jpg" width="27" alt="GrandLuxe Casino" />
+									<figcaption><a href="http://www.jeuxcasino-enligne.com/grandluxe-casino.php">GrandLuxe</a></figcaption>
+								</figure>
+						</li>
+						<li role="listitem" class="boxesBonus">1600&euro;</li>
+					</ul>			
+					<ul role="list" class="boxesGris boxesMulti">
+						<li role="listitem" class="boxesFigure">
+								<figure>
+									<img src="images/casinos-en-ligne2_03.jpg" width="27" alt="Rome Casino" />
+									<figcaption><a href="http://www.jeuxcasino-enligne.com/rome-casino.php">Rome Casino</a></figcaption>
+								</figure>
+						</li>
+						<li role="listitem" class="boxesBonus">1500&euro;</li>
+					</ul>			
+					<ul role="list" class="boxesGris boxesMulti">
+						<li role="listitem" class="boxesFigure">
+								<figure>
+									<img src="images/casinos-en-ligne2_06.jpg" width="27" alt="Winpalace Casino" />
+									<figcaption><a href="http://www.jeuxcasino-enligne.com/winpalace-casino.php">Winpalace</a></figcaption>
+								</figure>
+						</li>
+						<li role="listitem" class="boxesBonus">1000&euro;</li>
+					</ul>			
+					<ul role="list" class="boxesGris boxesMulti">
+						<li role="listitem" class="boxesFigure">
+								<figure>
+									<img src="images/casinos-en-ligne2_10.jpg" width="27" alt="7Red Casino" />
+									<figcaption><a href="http://www.jeuxcasino-enligne.com/7red-casino.php">7Red Casino</a></figcaption>
+								</figure>
+						</li>
+						<li role="listitem" class="boxesBonus">100&euro;</li>
+					</ul>
+				</dd> 
+				<dt class="boxesDT">Machine a sous</dt>
+				<dd class="boxesDD">
+					<ul role="menu" class="boxesLiens" itemprop="breadcrumb">
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/origines-machine-a-sous.php">Origines de la machine à sous</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/machines-a-sous-en-ligne.php">Machines à sous en ligne</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/jouer-aux-machines-a-sous.php">Jouer aux machines à sous</a></li>
+					</ul>
+				</dd> 
+				<dt class="boxesDT">Blackjack</dt>
+				<dd class="boxesDD">
+					<ul role="menu" class="boxesLiens" itemprop="breadcrumb">
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/le-blackjack.php">Le blackjack</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/regles-du-blackjack.php">Règles du blackjack</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/strategies-au-blackjack.php">Stratégies au blackjack</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/gestion-budget-blackjack.php">Gestion de budget au blackjack</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/anecdotes-blackjack.php">Anécdotes blackjack</a></li>
+					</ul>
+				</dd> 
+				<dt class="boxesDT">Roulette</dt>
+				<dd class="boxesDD">
+					<ul role="menu" class="boxesLiens" itemprop="breadcrumb">
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/jeu-de-roulette.php">Le jeu de roulette</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/systeme-roulette.php">Système roulette</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/anecdote-roulette.php">Anécdote roulette</a></li>
+					</ul>
+				</dd> 
+				<dt class="boxesDT">Vidéo poker</dt>
+				<dd class="boxesDD">
+					<ul role="menu" class="boxesLiens" itemprop="breadcrumb">
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/jeu-video-poker.php">Le jeu de vidéo poker</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/strategie-au-video-poker.php">Stratégie vidéo poker</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/gains-video-poker.php">Déterminer les gains</a></li>
+					</ul>
+				</dd> 
+				<dt class="boxesDT">Craps</dt>
+				<dd class="boxesDD">
+					<ul role="menu" class="boxesLiens" itemprop="breadcrumb">
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/regles-du-craps.php">Règles du craps</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/conseils-pour-jouer-au-craps.php">Conseils pour jouer au craps</a></li>
+					</ul>
+				</dd> 
+				<dt class="boxesDT">Baccarat</dt>
+				<dd class="boxesDD">
+					<ul role="menu" class="boxesLiens" itemprop="breadcrumb">
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/origines-baccarat.php">Origines du baccarat</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/jeu-baccarat.php">Le jeu de baccarat</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/tables-baccarat.php">Les tables de baccarat</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/strategie-au-baccarat.php">Stratégie au baccarat</a></li>
+						<li role="menuitem"><a href="http://www.jeuxcasino-enligne.com/gestion-budget-baccarat.php">Gestion de budget</a></li>
+					</ul>
+				</dd>
+			</dl> 
+		</div>
+		<div class="clear"></div>   
+	</aside> 
+	</div> 
+	﻿
+	<footer> 
+		<div id="footer">
+			<figure>
+				<img src="images/logo_footer.png" alt="Jeux Casinos" />
+			</figure>
+			<p><a href="http://www.jeuxcasino-enligne.com">Accueil</a> | <a href="http://www.jeuxcasino-enligne.com/jeux-casino-gratuit.php">Jeux casino gratuit</a> | <a href="http://www.jeuxcasino-enligne.com/jeux-de-casino.php">Jeux de casino</a> | <a href="http://www.jeuxcasino-enligne.com/casino-gratuit.php">Casino gratuit</a> | <a href="http://www.jeuxcasino-enligne.com/bonus-sans-depot.php">Bonus sans dépôt</a> | <a href="http://www.jeuxcasino-enligne.com/contact.php">Contact</a> | <a href="http://www.adifco.fr/">Référencement</a></p>
+			<p class="h6">&copy; 2011. Tous droits réservés. <span itemprop="publisher">Jeux Casinos</span></p>
+		</div> 
+	</footer>
+	 
+</div> 
+</body>
+</html>
